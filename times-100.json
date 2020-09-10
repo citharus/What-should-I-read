@@ -1,0 +1,802 @@
+{
+    "0": [
+        {
+            "name": "The Adventures of Augie March",
+            "author": "Saul Bellow",
+            "year": "1953",
+            "link": "https://en.wikipedia.org/wiki/The_Adventures_of_Augie_March"
+        }
+    ],
+    "1": [
+        {
+            "name": "All the King\u2019s Men",
+            "author": "Robert Penn Warren",
+            "year": "1946",
+            "link": "https://en.wikipedia.org/wiki/All_the_King%E2%80%99s_Men"
+        }
+    ],
+    "2": [
+        {
+            "name": "American Pastoral",
+            "author": "Philip Roth",
+            "year": "1997",
+            "link": "https://en.wikipedia.org/wiki/American_Pastoral"
+        }
+    ],
+    "3": [
+        {
+            "name": "An American Tragedy",
+            "author": "Theodore Dreiser",
+            "year": "1925",
+            "link": "https://en.wikipedia.org/wiki/An_American_Tragedy"
+        }
+    ],
+    "4": [
+        {
+            "name": "Animal Farm",
+            "author": "George Orwell",
+            "year": "1946",
+            "link": "https://en.wikipedia.org/wiki/Animal_Farm"
+        }
+    ],
+    "5": [
+        {
+            "name": "Appointment in Samarra",
+            "author": "John O'Hara",
+            "year": "1934",
+            "link": "https://en.wikipedia.org/wiki/Appointment_in_Samarra"
+        }
+    ],
+    "6": [
+        {
+            "name": "Are You There God? It's Me, Margaret.",
+            "author": "Judy Blume",
+            "year": "1970",
+            "link": "https://en.wikipedia.org/wiki/Are_You_There_God%3F_It%27s_Me,_Margaret."
+        }
+    ],
+    "7": [
+        {
+            "name": "The Assistant",
+            "author": "Bernard Malamud",
+            "year": "1957",
+            "link": "https://en.wikipedia.org/wiki/The_Assistant_(novel)"
+        }
+    ],
+    "8": [
+        {
+            "name": "At Swim-Two-Birds",
+            "author": "Flann O'Brien",
+            "year": "1938",
+            "link": "https://en.wikipedia.org/wiki/At_Swim-Two-Birds"
+        }
+    ],
+    "9": [
+        {
+            "name": "Atonement",
+            "author": "Ian McEwan",
+            "year": "2002",
+            "link": "https://en.wikipedia.org/wiki/Atonement_(novel)"
+        }
+    ],
+    "10": [
+        {
+            "name": "Beloved",
+            "author": "Toni Morrison",
+            "year": "1987",
+            "link": "https://en.wikipedia.org/wiki/Beloved_(novel)"
+        }
+    ],
+    "11": [
+        {
+            "name": "The Berlin Stories",
+            "author": "Christopher Isherwood",
+            "year": "1946",
+            "link": "https://en.wikipedia.org/wiki/The_Berlin_Stories"
+        }
+    ],
+    "12": [
+        {
+            "name": "The Big Sleep",
+            "author": "Raymond Chandler",
+            "year": "1939",
+            "link": "https://en.wikipedia.org/wiki/The_Big_Sleep"
+        }
+    ],
+    "13": [
+        {
+            "name": "The Blind Assassin",
+            "author": "Margaret Atwood",
+            "year": "2000",
+            "link": "https://en.wikipedia.org/wiki/The_Blind_Assassin"
+        }
+    ],
+    "14": [
+        {
+            "name": "Blood Meridian",
+            "author": "Cormac McCarthy",
+            "year": "1989",
+            "link": "https://en.wikipedia.org/wiki/Blood_Meridian"
+        }
+    ],
+    "15": [
+        {
+            "name": "Brideshead Revisited",
+            "author": "Evelyn Waugh",
+            "year": "1946",
+            "link": "https://en.wikipedia.org/wiki/Brideshead_Revisited"
+        }
+    ],
+    "16": [
+        {
+            "name": "The Bridge of San Luis Rey",
+            "author": "Thornton Wilder",
+            "year": "1927",
+            "link": "https://en.wikipedia.org/wiki/The_Bridge_of_San_Luis_Rey"
+        }
+    ],
+    "17": [
+        {
+            "name": "Call It Sleep",
+            "author": "Henry Roth",
+            "year": "1935",
+            "link": "https://en.wikipedia.org/wiki/Call_It_Sleep"
+        }
+    ],
+    "18": [
+        {
+            "name": "Catch-22",
+            "author": "Joseph Heller",
+            "year": "1961",
+            "link": "https://en.wikipedia.org/wiki/Catch-22"
+        }
+    ],
+    "19": [
+        {
+            "name": "The Catcher in the Rye",
+            "author": "J.D. Salinger",
+            "year": "1951",
+            "link": "https://en.wikipedia.org/wiki/The_Catcher_in_the_Rye"
+        }
+    ],
+    "20": [
+        {
+            "name": "A Clockwork Orange",
+            "author": "Anthony Burgess",
+            "year": "1963",
+            "link": "https://en.wikipedia.org/wiki/A_Clockwork_Orange_(novel)"
+        }
+    ],
+    "21": [
+        {
+            "name": "The Confessions of Nat Turner",
+            "author": "William Styron",
+            "year": "1967",
+            "link": "https://en.wikipedia.org/wiki/The_Confessions_of_Nat_Turner"
+        }
+    ],
+    "22": [
+        {
+            "name": "The Corrections",
+            "author": "Jonathan Franzen",
+            "year": "2001",
+            "link": "https://en.wikipedia.org/wiki/The_Corrections"
+        }
+    ],
+    "23": [
+        {
+            "name": "The Crying of Lot 49",
+            "author": "Thomas Pynchon",
+            "year": "1966",
+            "link": "https://en.wikipedia.org/wiki/The_Crying_of_Lot_49"
+        }
+    ],
+    "24": [
+        {
+            "name": "A Dance to the Music of Time",
+            "author": "Anthony Powell",
+            "year": "1951",
+            "link": "https://en.wikipedia.org/wiki/A_Dance_to_the_Music_of_Time"
+        }
+    ],
+    "25": [
+        {
+            "name": "The Day of the Locust",
+            "author": "Nathanael West",
+            "year": "1939",
+            "link": "https://en.wikipedia.org/wiki/The_Day_of_the_Locust"
+        }
+    ],
+    "26": [
+        {
+            "name": "Death Comes for the Archbishop",
+            "author": "Willa Cather",
+            "year": "1927",
+            "link": "https://en.wikipedia.org/wiki/Death_Comes_for_the_Archbishop"
+        }
+    ],
+    "27": [
+        {
+            "name": "A Death in the Family",
+            "author": "James Agee",
+            "year": "1958",
+            "link": "https://en.wikipedia.org/wiki/A_Death_in_the_Family"
+        }
+    ],
+    "28": [
+        {
+            "name": "The Death of the Heart",
+            "author": "Elizabeth Bowen",
+            "year": "1958",
+            "link": "https://en.wikipedia.org/wiki/The_Death_of_the_Heart"
+        }
+    ],
+    "29": [
+        {
+            "name": "Deliverance",
+            "author": "James Dickey",
+            "year": "1970",
+            "link": "https://en.wikipedia.org/wiki/Deliverance_(novel)"
+        }
+    ],
+    "30": [
+        {
+            "name": "Dog Soldiers",
+            "author": "Robert Stone",
+            "year": "1974",
+            "link": "https://en.wikipedia.org/wiki/Dog_Soldiers_(novel)"
+        }
+    ],
+    "31": [
+        {
+            "name": "Falconer",
+            "author": "John Cheever",
+            "year": "1977",
+            "link": "https://en.wikipedia.org/wiki/Falconer_(novel)"
+        }
+    ],
+    "32": [
+        {
+            "name": "The French Lieutenant's Woman",
+            "author": "John Fowles",
+            "year": "1969",
+            "link": "https://en.wikipedia.org/wiki/The_French_Lieutenant%27s_Woman"
+        }
+    ],
+    "33": [
+        {
+            "name": "The Golden Notebook",
+            "author": "Doris Lessing",
+            "year": "1962",
+            "link": "https://en.wikipedia.org/wiki/The_Golden_Notebook"
+        }
+    ],
+    "34": [
+        {
+            "name": "Go Tell It on the Mountain",
+            "author": "James Baldwin",
+            "year": "1953",
+            "link": "https://en.wikipedia.org/wiki/Go_Tell_It_on_the_Mountain_(novel)"
+        }
+    ],
+    "35": [
+        {
+            "name": "Gone with the Wind",
+            "author": "Margaret Mitchell",
+            "year": "1936",
+            "link": "https://en.wikipedia.org/wiki/Gone_with_the_Wind_(novel)"
+        }
+    ],
+    "36": [
+        {
+            "name": "The Grapes of Wrath",
+            "author": "John Steinbeck",
+            "year": "1939",
+            "link": "https://en.wikipedia.org/wiki/The_Grapes_of_Wrath"
+        }
+    ],
+    "37": [
+        {
+            "name": "Gravity's Rainbow",
+            "author": "Thomas Pynchon",
+            "year": "1973",
+            "link": "https://en.wikipedia.org/wiki/Gravity%27s_Rainbow"
+        }
+    ],
+    "38": [
+        {
+            "name": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "year": "1925",
+            "link": "https://en.wikipedia.org/wiki/The_Great_Gatsby"
+        }
+    ],
+    "39": [
+        {
+            "name": "A Handful of Dust",
+            "author": "Evelyn Waugh",
+            "year": "1934",
+            "link": "https://en.wikipedia.org/wiki/A_Handful_of_Dust"
+        }
+    ],
+    "40": [
+        {
+            "name": "The Heart Is a Lonely Hunter",
+            "author": "Carson McCullers",
+            "year": "1940",
+            "link": "https://en.wikipedia.org/wiki/The_Heart_Is_a_Lonely_Hunter"
+        }
+    ],
+    "41": [
+        {
+            "name": "The Heart of the Matter",
+            "author": "Graham Greene",
+            "year": "1948",
+            "link": "https://en.wikipedia.org/wiki/The_Heart_of_the_Matter"
+        }
+    ],
+    "42": [
+        {
+            "name": "Herzog",
+            "author": "Saul Bellow",
+            "year": "1964",
+            "link": "https://en.wikipedia.org/wiki/Herzog_(novel)"
+        }
+    ],
+    "43": [
+        {
+            "name": "Housekeeping",
+            "author": "Marilynne Robinson",
+            "year": "1981",
+            "link": "https://en.wikipedia.org/wiki/Housekeeping_(novel)"
+        }
+    ],
+    "44": [
+        {
+            "name": "A House for Mr. Biswas",
+            "author": "V.S. Naipaul",
+            "year": "1962",
+            "link": "https://en.wikipedia.org/wiki/A_House_for_Mr._Biswas"
+        }
+    ],
+    "45": [
+        {
+            "name": "I, Claudius",
+            "author": "Robert Graves",
+            "year": "1934",
+            "link": "https://en.wikipedia.org/wiki/I,_Claudius"
+        }
+    ],
+    "46": [
+        {
+            "name": "Infinite Jest",
+            "author": "David Foster Wallace",
+            "year": "1996",
+            "link": "https://en.wikipedia.org/wiki/Infinite_Jest"
+        }
+    ],
+    "47": [
+        {
+            "name": "Invisible Man",
+            "author": "Ralph Ellison",
+            "year": "1952",
+            "link": "https://en.wikipedia.org/wiki/Invisible_Man"
+        }
+    ],
+    "48": [
+        {
+            "name": "Light in August",
+            "author": "William Faulkner",
+            "year": "1932",
+            "link": "https://en.wikipedia.org/wiki/Light_in_August"
+        }
+    ],
+    "49": [
+        {
+            "name": "The Lion, The Witch and the Wardrobe",
+            "author": "C.S. Lewis",
+            "year": "1950",
+            "link": "https://en.wikipedia.org/wiki/The_Lion,_The_Witch_and_the_Wardrobe"
+        }
+    ],
+    "50": [
+        {
+            "name": "Lolita",
+            "author": "Vladimir Nabokov",
+            "year": "1955",
+            "link": "https://en.wikipedia.org/wiki/Lolita"
+        }
+    ],
+    "51": [
+        {
+            "name": "Lord of the Flies",
+            "author": "William Golding",
+            "year": "1954",
+            "link": "https://en.wikipedia.org/wiki/Lord_of_the_Flies"
+        }
+    ],
+    "52": [
+        {
+            "name": "The Lord of the Rings",
+            "author": "J.R.R. Tolkien",
+            "year": "1954",
+            "link": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings"
+        }
+    ],
+    "53": [
+        {
+            "name": "Loving",
+            "author": "Henry Green",
+            "year": "1945",
+            "link": "https://en.wikipedia.org/wiki/Loving_(novel)"
+        }
+    ],
+    "54": [
+        {
+            "name": "Lucky Jim",
+            "author": "Kingsley Amis",
+            "year": "1954",
+            "link": "https://en.wikipedia.org/wiki/Lucky_Jim"
+        }
+    ],
+    "55": [
+        {
+            "name": "The Man Who Loved Children",
+            "author": "Christina Stead",
+            "year": "1940",
+            "link": "https://en.wikipedia.org/wiki/The_Man_Who_Loved_Children"
+        }
+    ],
+    "56": [
+        {
+            "name": "Midnight's Children",
+            "author": "Salman Rushdie",
+            "year": "1981",
+            "link": "https://en.wikipedia.org/wiki/Midnight%27s_Children"
+        }
+    ],
+    "57": [
+        {
+            "name": "Money",
+            "author": "Martin Amis",
+            "year": "1984",
+            "link": "https://en.wikipedia.org/wiki/Money_(novel)"
+        }
+    ],
+    "58": [
+        {
+            "name": "The Moviegoer",
+            "author": "Walker Percy",
+            "year": "1961",
+            "link": "https://en.wikipedia.org/wiki/The_Moviegoer"
+        }
+    ],
+    "59": [
+        {
+            "name": "Mrs. Dalloway",
+            "author": "Virginia Woolf",
+            "year": "1925",
+            "link": "https://en.wikipedia.org/wiki/Mrs._Dalloway"
+        }
+    ],
+    "60": [
+        {
+            "name": "Naked Lunch",
+            "author": "William Burroughs",
+            "year": "1959",
+            "link": "https://en.wikipedia.org/wiki/Naked_Lunch"
+        }
+    ],
+    "61": [
+        {
+            "name": "Native Son",
+            "author": "Richard Wright",
+            "year": "1940",
+            "link": "https://en.wikipedia.org/wiki/Native_Son"
+        }
+    ],
+    "62": [
+        {
+            "name": "Neuromancer",
+            "author": "William Gibson",
+            "year": "1984",
+            "link": "https://en.wikipedia.org/wiki/Neuromancer"
+        }
+    ],
+    "63": [
+        {
+            "name": "Never Let Me Go",
+            "author": "Kazuo Ishiguro",
+            "year": "2005",
+            "link": "https://en.wikipedia.org/wiki/Never_Let_Me_Go_(novel)"
+        }
+    ],
+    "64": [
+        {
+            "name": "1984",
+            "author": "George Orwell",
+            "year": "1948",
+            "link": "https://en.wikipedia.org/wiki/Nineteen_Eighty-Four"
+        }
+    ],
+    "65": [
+        {
+            "name": "On the Road",
+            "author": "Jack Kerouac",
+            "year": "1957",
+            "link": "https://en.wikipedia.org/wiki/On_the_Road"
+        }
+    ],
+    "66": [
+        {
+            "name": "One Flew Over the Cuckoo's Nest",
+            "author": "Ken Kesey",
+            "year": "1962",
+            "link": "https://en.wikipedia.org/wiki/One_Flew_Over_the_Cuckoo%27s_Nest_(novel)"
+        }
+    ],
+    "67": [
+        {
+            "name": "The Painted Bird",
+            "author": "Jerzy Kosinski",
+            "year": "1965",
+            "link": "https://en.wikipedia.org/wiki/The_Painted_Bird"
+        }
+    ],
+    "68": [
+        {
+            "name": "Pale Fire",
+            "author": "Vladimir Nabokov",
+            "year": "1962",
+            "link": "https://en.wikipedia.org/wiki/Pale_Fire"
+        }
+    ],
+    "69": [
+        {
+            "name": "A Passage to India",
+            "author": "E.M. Forster",
+            "year": "1924",
+            "link": "https://en.wikipedia.org/wiki/A_Passage_to_India"
+        }
+    ],
+    "70": [
+        {
+            "name": "Play It as It Lays",
+            "author": "Joan Didion",
+            "year": "1970",
+            "link": "https://en.wikipedia.org/wiki/Play_It_as_It_Lays"
+        }
+    ],
+    "71": [
+        {
+            "name": "Portnoy's Complaint",
+            "author": "Philip Roth",
+            "year": "1969",
+            "link": "https://en.wikipedia.org/wiki/Portnoy%27s_Complaint"
+        }
+    ],
+    "72": [
+        {
+            "name": "Possession",
+            "author": "A.S. Byatt",
+            "year": "1990",
+            "link": "https://en.wikipedia.org/wiki/Possession_(Byatt_novel)"
+        }
+    ],
+    "73": [
+        {
+            "name": "The Power and the Glory",
+            "author": "Graham Greene",
+            "year": "1939",
+            "link": "https://en.wikipedia.org/wiki/The_Power_and_the_Glory"
+        }
+    ],
+    "74": [
+        {
+            "name": "The Prime of Miss Jean Brodie",
+            "author": "Muriel Spark",
+            "year": "1961",
+            "link": "https://en.wikipedia.org/wiki/The_Prime_of_Miss_Jean_Brodie_(novel)"
+        }
+    ],
+    "75": [
+        {
+            "name": "Rabbit, Run",
+            "author": "John Updike",
+            "year": "1960",
+            "link": "https://en.wikipedia.org/wiki/Rabbit,_Run"
+        }
+    ],
+    "76": [
+        {
+            "name": "Ragtime",
+            "author": "E.L. Doctorow",
+            "year": "1975",
+            "link": "https://en.wikipedia.org/wiki/Ragtime_(novel)"
+        }
+    ],
+    "77": [
+        {
+            "name": "The Recognitions",
+            "author": "William Gaddis",
+            "year": "1955",
+            "link": "https://en.wikipedia.org/wiki/The_Recognitions"
+        }
+    ],
+    "78": [
+        {
+            "name": "Red Harvest",
+            "author": "Dashiell Hammett",
+            "year": "1929",
+            "link": "https://en.wikipedia.org/wiki/Red_Harvest"
+        }
+    ],
+    "79": [
+        {
+            "name": "Revolutionary Road",
+            "author": "Richard Yates",
+            "year": "1961",
+            "link": "https://en.wikipedia.org/wiki/Revolutionary_Road"
+        }
+    ],
+    "80": [
+        {
+            "name": "The Sheltering Sky",
+            "author": "Paul Bowles",
+            "year": "1949",
+            "link": "https://en.wikipedia.org/wiki/The_Sheltering_Sky"
+        }
+    ],
+    "81": [
+        {
+            "name": "Slaughterhouse-Five",
+            "author": "Kurt Vonnegut",
+            "year": "1969",
+            "link": "https://en.wikipedia.org/wiki/Slaughterhouse-Five"
+        }
+    ],
+    "82": [
+        {
+            "name": "Snow Crash",
+            "author": "Neal Stephenson",
+            "year": "1992",
+            "link": "https://en.wikipedia.org/wiki/Snow_Crash"
+        }
+    ],
+    "83": [
+        {
+            "name": "The Sot-Weed Factor",
+            "author": "John Barth",
+            "year": "1960",
+            "link": "https://en.wikipedia.org/wiki/The_Sot-Weed_Factor"
+        }
+    ],
+    "84": [
+        {
+            "name": "The Sound and the Fury",
+            "author": "William Faulkner",
+            "year": "1929",
+            "link": "https://en.wikipedia.org/wiki/The_Sound_and_the_Fury"
+        }
+    ],
+    "85": [
+        {
+            "name": "The Sportswriter",
+            "author": "Richard Ford",
+            "year": "1986",
+            "link": "https://en.wikipedia.org/wiki/The_Sportswriter"
+        }
+    ],
+    "86": [
+        {
+            "name": "The Spy Who Came in from the Cold",
+            "author": "John le Carr\u00e9",
+            "year": "1964",
+            "link": "https://en.wikipedia.org/wiki/The_Spy_Who_Came_in_from_the_Cold"
+        }
+    ],
+    "87": [
+        {
+            "name": "The Sun Also Rises",
+            "author": "Ernest Hemingway",
+            "year": "1926",
+            "link": "https://en.wikipedia.org/wiki/The_Sun_Also_Rises"
+        }
+    ],
+    "88": [
+        {
+            "name": "Their Eyes Were Watching God",
+            "author": "Zora Neale Hurston",
+            "year": "1937",
+            "link": "https://en.wikipedia.org/wiki/Their_Eyes_Were_Watching_God"
+        }
+    ],
+    "89": [
+        {
+            "name": "Things Fall Apart",
+            "author": "Chinua Achebe",
+            "year": "1959",
+            "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart"
+        }
+    ],
+    "90": [
+        {
+            "name": "To Kill a Mockingbird",
+            "author": "Harper Lee",
+            "year": "1960",
+            "link": "https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird"
+        }
+    ],
+    "91": [
+        {
+            "name": "To the Lighthouse",
+            "author": "Virginia Woolf",
+            "year": "1929",
+            "link": "https://en.wikipedia.org/wiki/To_the_Lighthouse"
+        }
+    ],
+    "92": [
+        {
+            "name": "Tropic of Cancer",
+            "author": "Henry Miller",
+            "year": "1934",
+            "link": "https://en.wikipedia.org/wiki/Tropic_of_Cancer_(novel)"
+        }
+    ],
+    "93": [
+        {
+            "name": "Ubik",
+            "author": "Philip K. Dick",
+            "year": "1969",
+            "link": "https://en.wikipedia.org/wiki/Ubik"
+        }
+    ],
+    "94": [
+        {
+            "name": "Under the Net",
+            "author": "Iris Murdoch",
+            "year": "1954",
+            "link": "https://en.wikipedia.org/wiki/Under_the_Net"
+        }
+    ],
+    "95": [
+        {
+            "name": "Under the Volcano",
+            "author": "Malcolm Lowry",
+            "year": "1947",
+            "link": "https://en.wikipedia.org/wiki/Under_the_Volcano"
+        }
+    ],
+    "96": [
+        {
+            "name": "Watchmen",
+            "author": "Alan Moore and Dave Gibbons",
+            "year": "1986",
+            "link": "https://en.wikipedia.org/wiki/Watchmen"
+        }
+    ],
+    "97": [
+        {
+            "name": "White Noise",
+            "author": "Don DeLillo",
+            "year": "1985",
+            "link": "https://en.wikipedia.org/wiki/White_Noise_(novel)"
+        }
+    ],
+    "98": [
+        {
+            "name": "White Teeth",
+            "author": "Zadie Smith",
+            "year": "2000",
+            "link": "https://en.wikipedia.org/wiki/White_Teeth"
+        }
+    ],
+    "99": [
+        {
+            "name": "Wide Sargasso Sea",
+            "author": "Jean Rhys",
+            "year": "1966",
+            "link": "https://en.wikipedia.org/wiki/Wide_Sargasso_Sea"
+        }
+    ]
+}
