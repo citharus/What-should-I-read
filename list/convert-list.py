@@ -1,8 +1,8 @@
 from collections import defaultdict
 from json import dump
 
-READ_LIST = 'lists/gurdian-100.txt'
-WRITE_LIST = 'lists/gurdian-100.json'
+READ_LIST = 'list/gurdian-100.txt'
+WRITE_LIST = 'list/gurdian-100.json'
 DATA = defaultdict(list)
 
 with open(READ_LIST, 'r') as read_list:
