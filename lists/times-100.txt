@@ -1,0 +1,100 @@
+The Adventures of Augie March;Saul Bellow;1953;https://en.wikipedia.org/wiki/The_Adventures_of_Augie_March
+All the King’s Men;Robert Penn Warren;1946;https://en.wikipedia.org/wiki/All_the_King%E2%80%99s_Men
+American Pastoral;Philip Roth;1997;https://en.wikipedia.org/wiki/American_Pastoral
+An American Tragedy;Theodore Dreiser;1925;https://en.wikipedia.org/wiki/An_American_Tragedy
+Animal Farm;George Orwell;1946;https://en.wikipedia.org/wiki/Animal_Farm
+Appointment in Samarra;John O'Hara;1934;https://en.wikipedia.org/wiki/Appointment_in_Samarra
+Are You There God? It's Me, Margaret.;Judy Blume;1970;https://en.wikipedia.org/wiki/Are_You_There_God%3F_It%27s_Me,_Margaret.
+The Assistant;Bernard Malamud;1957;https://en.wikipedia.org/wiki/The_Assistant_(novel)
+At Swim-Two-Birds;Flann O'Brien;1938;https://en.wikipedia.org/wiki/At_Swim-Two-Birds
+Atonement;Ian McEwan;2002;https://en.wikipedia.org/wiki/Atonement_(novel)
+Beloved;Toni Morrison;1987;https://en.wikipedia.org/wiki/Beloved_(novel)
+The Berlin Stories;Christopher Isherwood;1946;https://en.wikipedia.org/wiki/The_Berlin_Stories
+The Big Sleep;Raymond Chandler;1939;https://en.wikipedia.org/wiki/The_Big_Sleep
+The Blind Assassin;Margaret Atwood;2000;https://en.wikipedia.org/wiki/The_Blind_Assassin
+Blood Meridian;Cormac McCarthy;1989;https://en.wikipedia.org/wiki/Blood_Meridian
+Brideshead Revisited;Evelyn Waugh;1946;https://en.wikipedia.org/wiki/Brideshead_Revisited
+The Bridge of San Luis Rey;Thornton Wilder;1927;https://en.wikipedia.org/wiki/The_Bridge_of_San_Luis_Rey
+Call It Sleep;Henry Roth;1935;https://en.wikipedia.org/wiki/Call_It_Sleep
+Catch-22;Joseph Heller;1961;https://en.wikipedia.org/wiki/Catch-22
+The Catcher in the Rye;J.D. Salinger;1951;https://en.wikipedia.org/wiki/The_Catcher_in_the_Rye
+A Clockwork Orange;Anthony Burgess;1963;https://en.wikipedia.org/wiki/A_Clockwork_Orange_(novel)
+The Confessions of Nat Turner;William Styron;1967;https://en.wikipedia.org/wiki/The_Confessions_of_Nat_Turner
+The Corrections;Jonathan Franzen;2001;https://en.wikipedia.org/wiki/The_Corrections
+The Crying of Lot 49;Thomas Pynchon;1966;https://en.wikipedia.org/wiki/The_Crying_of_Lot_49
+A Dance to the Music of Time;Anthony Powell;1951;https://en.wikipedia.org/wiki/A_Dance_to_the_Music_of_Time
+The Day of the Locust;Nathanael West;1939;https://en.wikipedia.org/wiki/The_Day_of_the_Locust
+Death Comes for the Archbishop;Willa Cather;1927;https://en.wikipedia.org/wiki/Death_Comes_for_the_Archbishop
+A Death in the Family;James Agee;1958;https://en.wikipedia.org/wiki/A_Death_in_the_Family
+The Death of the Heart;Elizabeth Bowen;1958;https://en.wikipedia.org/wiki/The_Death_of_the_Heart
+Deliverance;James Dickey;1970;https://en.wikipedia.org/wiki/Deliverance_(novel)
+Dog Soldiers;Robert Stone;1974;https://en.wikipedia.org/wiki/Dog_Soldiers_(novel)
+Falconer;John Cheever;1977;https://en.wikipedia.org/wiki/Falconer_(novel)
+The French Lieutenant's Woman;John Fowles;1969;https://en.wikipedia.org/wiki/The_French_Lieutenant%27s_Woman
+The Golden Notebook;Doris Lessing;1962;https://en.wikipedia.org/wiki/The_Golden_Notebook
+Go Tell It on the Mountain;James Baldwin;1953;https://en.wikipedia.org/wiki/Go_Tell_It_on_the_Mountain_(novel)
+Gone with the Wind;Margaret Mitchell;1936;https://en.wikipedia.org/wiki/Gone_with_the_Wind_(novel)
+The Grapes of Wrath;John Steinbeck;1939;https://en.wikipedia.org/wiki/The_Grapes_of_Wrath
+Gravity's Rainbow;Thomas Pynchon;1973;https://en.wikipedia.org/wiki/Gravity%27s_Rainbow
+The Great Gatsby;F. Scott Fitzgerald;1925;https://en.wikipedia.org/wiki/The_Great_Gatsby
+A Handful of Dust;Evelyn Waugh;1934;https://en.wikipedia.org/wiki/A_Handful_of_Dust
+The Heart Is a Lonely Hunter;Carson McCullers;1940;https://en.wikipedia.org/wiki/The_Heart_Is_a_Lonely_Hunter
+The Heart of the Matter;Graham Greene;1948;https://en.wikipedia.org/wiki/The_Heart_of_the_Matter
+Herzog;Saul Bellow;1964;https://en.wikipedia.org/wiki/Herzog_(novel)
+Housekeeping;Marilynne Robinson;1981;https://en.wikipedia.org/wiki/Housekeeping_(novel)
+A House for Mr. Biswas;V.S. Naipaul;1962;https://en.wikipedia.org/wiki/A_House_for_Mr._Biswas
+I, Claudius;Robert Graves;1934;https://en.wikipedia.org/wiki/I,_Claudius
+Infinite Jest;David Foster Wallace;1996;https://en.wikipedia.org/wiki/Infinite_Jest
+Invisible Man;Ralph Ellison;1952;https://en.wikipedia.org/wiki/Invisible_Man
+Light in August;William Faulkner;1932;https://en.wikipedia.org/wiki/Light_in_August
+The Lion, The Witch and the Wardrobe;C.S. Lewis;1950;https://en.wikipedia.org/wiki/The_Lion,_The_Witch_and_the_Wardrobe
+Lolita;Vladimir Nabokov;1955;https://en.wikipedia.org/wiki/Lolita
+Lord of the Flies;William Golding;1954;https://en.wikipedia.org/wiki/Lord_of_the_Flies
+The Lord of the Rings;J.R.R. Tolkien;1954;https://en.wikipedia.org/wiki/The_Lord_of_the_Rings
+Loving;Henry Green;1945;https://en.wikipedia.org/wiki/Loving_(novel)
+Lucky Jim;Kingsley Amis;1954;https://en.wikipedia.org/wiki/Lucky_Jim
+The Man Who Loved Children;Christina Stead;1940;https://en.wikipedia.org/wiki/The_Man_Who_Loved_Children
+Midnight's Children;Salman Rushdie;1981;https://en.wikipedia.org/wiki/Midnight%27s_Children
+Money;Martin Amis;1984;https://en.wikipedia.org/wiki/Money_(novel)
+The Moviegoer;Walker Percy;1961;https://en.wikipedia.org/wiki/The_Moviegoer
+Mrs. Dalloway;Virginia Woolf;1925;https://en.wikipedia.org/wiki/Mrs._Dalloway
+Naked Lunch;William Burroughs;1959;https://en.wikipedia.org/wiki/Naked_Lunch
+Native Son;Richard Wright;1940;https://en.wikipedia.org/wiki/Native_Son
+Neuromancer;William Gibson;1984;https://en.wikipedia.org/wiki/Neuromancer
+Never Let Me Go;Kazuo Ishiguro;2005;https://en.wikipedia.org/wiki/Never_Let_Me_Go_(novel)
+1984;George Orwell;1948;https://en.wikipedia.org/wiki/Nineteen_Eighty-Four
+On the Road;Jack Kerouac;1957;https://en.wikipedia.org/wiki/On_the_Road
+One Flew Over the Cuckoo's Nest;Ken Kesey;1962;https://en.wikipedia.org/wiki/One_Flew_Over_the_Cuckoo%27s_Nest_(novel)
+The Painted Bird;Jerzy Kosinski;1965;https://en.wikipedia.org/wiki/The_Painted_Bird
+Pale Fire;Vladimir Nabokov;1962;https://en.wikipedia.org/wiki/Pale_Fire
+A Passage to India;E.M. Forster;1924;https://en.wikipedia.org/wiki/A_Passage_to_India
+Play It as It Lays;Joan Didion;1970;https://en.wikipedia.org/wiki/Play_It_as_It_Lays
+Portnoy's Complaint;Philip Roth;1969;https://en.wikipedia.org/wiki/Portnoy%27s_Complaint
+Possession;A.S. Byatt;1990;https://en.wikipedia.org/wiki/Possession_(Byatt_novel)
+The Power and the Glory;Graham Greene;1939;https://en.wikipedia.org/wiki/The_Power_and_the_Glory
+The Prime of Miss Jean Brodie;Muriel Spark;1961;https://en.wikipedia.org/wiki/The_Prime_of_Miss_Jean_Brodie_(novel)
+Rabbit, Run;John Updike;1960;https://en.wikipedia.org/wiki/Rabbit,_Run
+Ragtime;E.L. Doctorow;1975;https://en.wikipedia.org/wiki/Ragtime_(novel)
+The Recognitions;William Gaddis;1955;https://en.wikipedia.org/wiki/The_Recognitions
+Red Harvest;Dashiell Hammett;1929;https://en.wikipedia.org/wiki/Red_Harvest
+Revolutionary Road;Richard Yates;1961;https://en.wikipedia.org/wiki/Revolutionary_Road
+The Sheltering Sky;Paul Bowles;1949;https://en.wikipedia.org/wiki/The_Sheltering_Sky
+Slaughterhouse-Five;Kurt Vonnegut;1969;https://en.wikipedia.org/wiki/Slaughterhouse-Five
+Snow Crash;Neal Stephenson;1992;https://en.wikipedia.org/wiki/Snow_Crash
+The Sot-Weed Factor;John Barth;1960;https://en.wikipedia.org/wiki/The_Sot-Weed_Factor
+The Sound and the Fury;William Faulkner;1929;https://en.wikipedia.org/wiki/The_Sound_and_the_Fury
+The Sportswriter;Richard Ford;1986;https://en.wikipedia.org/wiki/The_Sportswriter
+The Spy Who Came in from the Cold;John le Carré;1964;https://en.wikipedia.org/wiki/The_Spy_Who_Came_in_from_the_Cold
+The Sun Also Rises;Ernest Hemingway;1926;https://en.wikipedia.org/wiki/The_Sun_Also_Rises
+Their Eyes Were Watching God;Zora Neale Hurston;1937;https://en.wikipedia.org/wiki/Their_Eyes_Were_Watching_God
+Things Fall Apart;Chinua Achebe;1959;https://en.wikipedia.org/wiki/Things_Fall_Apart
+To Kill a Mockingbird;Harper Lee;1960;https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird
+To the Lighthouse;Virginia Woolf;1929;https://en.wikipedia.org/wiki/To_the_Lighthouse
+Tropic of Cancer;Henry Miller;1934;https://en.wikipedia.org/wiki/Tropic_of_Cancer_(novel)
+Ubik;Philip K. Dick;1969;https://en.wikipedia.org/wiki/Ubik
+Under the Net;Iris Murdoch;1954;https://en.wikipedia.org/wiki/Under_the_Net
+Under the Volcano;Malcolm Lowry;1947;https://en.wikipedia.org/wiki/Under_the_Volcano
+Watchmen;Alan Moore and Dave Gibbons;1986;https://en.wikipedia.org/wiki/Watchmen
+White Noise;Don DeLillo;1985;https://en.wikipedia.org/wiki/White_Noise_(novel)
+White Teeth;Zadie Smith;2000;https://en.wikipedia.org/wiki/White_Teeth
+Wide Sargasso Sea;Jean Rhys;1966;https://en.wikipedia.org/wiki/Wide_Sargasso_Sea
