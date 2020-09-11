@@ -1,0 +1,802 @@
+{
+    "0": [
+        {
+            "name": "The Pilgrim\u2019s Progress",
+            "author": "John Bunyan",
+            "year": "1678",
+            "link": "http://www.theguardian.com/books/2013/sep/23/100-best-novels-pilgrims-progress"
+        }
+    ],
+    "1": [
+        {
+            "name": "Robinson Crusoe",
+            "author": "Daniel Defoe",
+            "year": "1719",
+            "link": "http://www.theguardian.com/books/poll/2013/sep/30/100-best-books-robinson-crusoe"
+        }
+    ],
+    "2": [
+        {
+            "name": "Gulliver\u2019s Travels",
+            "author": "Jonathan Swift",
+            "year": "1726",
+            "link": "http://www.theguardian.com/books/poll/2013/oct/07/100-novels-swift-gullivers-travels-mccrum"
+        }
+    ],
+    "3": [
+        {
+            "name": "Clarissa",
+            "author": "Samuel Richardson",
+            "year": "1748",
+            "link": "http://www.theguardian.com/books/2013/oct/14/100-best-books-clarissa-samuel-richardson"
+        }
+    ],
+    "4": [
+        {
+            "name": "Tom Jones",
+            "author": "Henry Fielding",
+            "year": "1749",
+            "link": "http://www.theguardian.com/books/2013/oct/21/100-best-novels-tom-jones"
+        }
+    ],
+    "5": [
+        {
+            "name": "The Life and Opinions of Tristram Shandy, Gentleman",
+            "author": "Laurence Sterne",
+            "year": "1759",
+            "link": "http://www.theguardian.com/books/2013/oct/28/100-best-novels-tristram-shandy-sterne"
+        }
+    ],
+    "6": [
+        {
+            "name": "Emma",
+            "author": "Jane Austen",
+            "year": "1816",
+            "link": "http://www.theguardian.com/books/2013/nov/04/100-best-novels-jane-austen-emma"
+        }
+    ],
+    "7": [
+        {
+            "name": "Frankenstein",
+            "author": "Mary Shelley",
+            "year": "1818",
+            "link": "http://www.theguardian.com/books/2013/nov/11/100-best-novels-frankenstein-mary-shelley"
+        }
+    ],
+    "8": [
+        {
+            "name": "Nightmare Abbey",
+            "author": "Thomas Love Peacock",
+            "year": "1818",
+            "link": "http://www.theguardian.com/books/2013/nov/18/100-best-novels-nightmare-abbey-thomas-love-peacock"
+        }
+    ],
+    "9": [
+        {
+            "name": "The Narrative of Arthur Gordon Pym of Nantucket",
+            "author": "Edgar Allan Poe",
+            "year": "1838",
+            "link": "http://www.theguardian.com/books/2013/nov/24/arthur-gordon-pym-nantucket-edgar-allan-poe-100-novels"
+        }
+    ],
+    "10": [
+        {
+            "name": "Sybil",
+            "author": "Benjamin Disraeli",
+            "year": "1845",
+            "link": "http://www.theguardian.com/books/2013/dec/02/sybil-benjamin-disraeli-100-best-novels"
+        }
+    ],
+    "11": [
+        {
+            "name": "Jane Eyre",
+            "author": "Charlotte Bront\u00eb",
+            "year": "1847",
+            "link": "http://www.theguardian.com/books/2013/dec/09/100-best-novels-jane-eyre"
+        }
+    ],
+    "12": [
+        {
+            "name": "Wuthering Heights",
+            "author": "Emily Bront\u00eb",
+            "year": "1847",
+            "link": "http://www.theguardian.com/books/2013/dec/16/emily-bronte-wuthering-heights-100-best"
+        }
+    ],
+    "13": [
+        {
+            "name": "Vanity Fair",
+            "author": "William Thackeray",
+            "year": "1848",
+            "link": "http://www.theguardian.com/books/2013/dec/23/william-thackeray-vanity-fair-100-best-novels"
+        }
+    ],
+    "14": [
+        {
+            "name": "David Copperfield",
+            "author": "Charles Dickens",
+            "year": "1850",
+            "link": "http://www.theguardian.com/books/2013/dec/30/david-copperfield-dickens-100-best-novels"
+        }
+    ],
+    "15": [
+        {
+            "name": "The Scarlet Letter",
+            "author": "Nathaniel Hawthorne",
+            "year": "1850",
+            "link": "http://www.theguardian.com/books/2014/jan/06/scarlet-letter-nathaniel-hawthorne-100-best-novels"
+        }
+    ],
+    "16": [
+        {
+            "name": "Moby-Dick",
+            "author": "Herman Melville",
+            "year": "1851",
+            "link": "http://www.theguardian.com/books/2014/jan/13/100-best-novels-observer-moby-dick"
+        }
+    ],
+    "17": [
+        {
+            "name": "Alice\u2019s Adventures in Wonderland",
+            "author": "Lewis Carroll",
+            "year": "1865",
+            "link": "http://www.theguardian.com/books/2014/jan/20/100-best-novels-alice-wonderland"
+        }
+    ],
+    "18": [
+        {
+            "name": "The Moonstone",
+            "author": "Wilkie Collins",
+            "year": "1868",
+            "link": "http://www.theguardian.com/books/2014/jan/27/100-best-novels-moonstone-wilkie-collins"
+        }
+    ],
+    "19": [
+        {
+            "name": "Little Women",
+            "author": "Louisa May Alcott",
+            "year": "1869",
+            "link": "http://www.theguardian.com/books/2014/feb/03/100-best-novels-little-women-louisa-may-alcott"
+        }
+    ],
+    "20": [
+        {
+            "name": "Middlemarch",
+            "author": "George Eliot",
+            "year": "1871",
+            "link": "http://www.theguardian.com/books/2014/feb/10/100-best-novels-middlemarch-george-eliot"
+        }
+    ],
+    "21": [
+        {
+            "name": "The Way We Live Now",
+            "author": "Anthony Trollope",
+            "year": "1875",
+            "link": "http://www.theguardian.com/books/2014/feb/17/110-best-novels-way-we-live-now-trollope"
+        }
+    ],
+    "22": [
+        {
+            "name": "The Adventures of Huckleberry Finn",
+            "author": "Mark Twain",
+            "year": "1884",
+            "link": "http://www.theguardian.com/books/2014/feb/24/100-best-novels-huckleberry-finn-twain"
+        }
+    ],
+    "23": [
+        {
+            "name": "Kidnapped",
+            "author": "Robert Louis Stevenson",
+            "year": "1886",
+            "link": "http://www.theguardian.com/books/2014/mar/03/100-best-novels-kidnapped-robert-louis-stevenson"
+        }
+    ],
+    "24": [
+        {
+            "name": "Three Men in a Boat",
+            "author": "Jerome K Jerome",
+            "year": "1889",
+            "link": "http://www.theguardian.com/books/2014/mar/10/100-best-novels-three-men-boat-jerome"
+        }
+    ],
+    "25": [
+        {
+            "name": "The Sign of Four",
+            "author": "Arthur Conan Doyle",
+            "year": "1890",
+            "link": "http://www.theguardian.com/books/2014/mar/17/100-best-novels-sign-of-four-conan-doyle"
+        }
+    ],
+    "26": [
+        {
+            "name": "The Picture of Dorian Gray",
+            "author": "Oscar Wilde",
+            "year": "1891",
+            "link": "http://www.theguardian.com/books/2014/mar/24/100-best-novels-picture-dorian-gray-oscar-wilde"
+        }
+    ],
+    "27": [
+        {
+            "name": "New Grub Street",
+            "author": "George Gissing",
+            "year": "1891",
+            "link": "http://www.theguardian.com/books/2014/mar/31/100-best-novels-new-grub-street-gissing"
+        }
+    ],
+    "28": [
+        {
+            "name": "Jude the Obscure",
+            "author": "Thomas Hardy",
+            "year": "1895",
+            "link": "http://www.theguardian.com/books/2014/apr/07/100-best-novels-jude-obscure-thomas-hardy"
+        }
+    ],
+    "29": [
+        {
+            "name": "The Red Badge of Courage",
+            "author": "Stephen Crane",
+            "year": "1895",
+            "link": "http://www.theguardian.com/books/2014/apr/14/100-best-novels-red-badge-courage-stephen-crane"
+        }
+    ],
+    "30": [
+        {
+            "name": "Dracula",
+            "author": "Bram Stoker",
+            "year": "1897",
+            "link": "http://www.theguardian.com/books/2014/apr/21/100-best-novels-dracula-bram-stoker"
+        }
+    ],
+    "31": [
+        {
+            "name": "Heart of Darkness",
+            "author": "Joseph Conrad",
+            "year": "1899",
+            "link": "http://www.theguardian.com/books/2014/apr/28/100-best-novels-heart-of-darkness-joseph-conrad"
+        }
+    ],
+    "32": [
+        {
+            "name": "Sister Carrie",
+            "author": "Theodore Dreiser",
+            "year": "1900",
+            "link": "http://www.theguardian.com/books/2014/may/05/100-best-novels-sister-carrie-theodore-dreiser"
+        }
+    ],
+    "33": [
+        {
+            "name": "Kim",
+            "author": "Rudyard Kipling",
+            "year": "1901",
+            "link": "http://www.theguardian.com/books/2014/may/12/100-best-novels-kim-rudyard-kipling"
+        }
+    ],
+    "34": [
+        {
+            "name": "The Call of the Wild",
+            "author": "Jack London",
+            "year": "1903",
+            "link": "http://www.theguardian.com/books/2014/may/19/100-best-novels-call-of-the-wild-jack-london"
+        }
+    ],
+    "35": [
+        {
+            "name": "The Golden Bowl",
+            "author": "Henry James",
+            "year": "1904",
+            "link": "http://www.theguardian.com/books/2014/may/26/100-best-novels-the-golden-bowl-henry-james"
+        }
+    ],
+    "36": [
+        {
+            "name": "Hadrian the Seventh",
+            "author": "Frederick Rolfe",
+            "year": "1904",
+            "link": "http://www.theguardian.com/books/2014/jun/02/100-best-novels-hadrian-seventh-frederick-rolfe"
+        }
+    ],
+    "37": [
+        {
+            "name": "The Wind in the Willows",
+            "author": "Kenneth Grahame",
+            "year": "1908",
+            "link": "http://www.theguardian.com/books/2014/jun/09/100-best-novels-the-wind-in-the-willows-kenneth-grahame"
+        }
+    ],
+    "38": [
+        {
+            "name": "The History of Mr Polly",
+            "author": "HG Wells",
+            "year": "1910",
+            "link": "http://www.theguardian.com/books/2014/jun/16/hg-wells-history-of-mr-polly-100-best-novels"
+        }
+    ],
+    "39": [
+        {
+            "name": "Zuleika Dobson",
+            "author": "Max Beerbohm",
+            "year": "1911",
+            "link": "http://www.theguardian.com/books/2014/jun/23/zuleika-dobson-max-beerbohm-100-best-novels"
+        }
+    ],
+    "40": [
+        {
+            "name": "The Good Soldier",
+            "author": "Ford Madox Ford",
+            "year": "1915",
+            "link": "http://www.theguardian.com/books/2014/jun/30/good-soldier-ford-madox-ford-100-best-novels"
+        }
+    ],
+    "41": [
+        {
+            "name": "The Thirty-Nine Steps",
+            "author": "John Buchan",
+            "year": "1915",
+            "link": "http://www.theguardian.com/books/2014/jul/07/100-best-novels-39-thirty-nine-steps-john-buchan-robert-mccrum"
+        }
+    ],
+    "42": [
+        {
+            "name": "The Rainbow",
+            "author": "DH Lawrence",
+            "year": "1915",
+            "link": "http://www.theguardian.com/books/2014/jul/14/100-best-novels-the-rainbow-dh-lawrence-robert-mccrum"
+        }
+    ],
+    "43": [
+        {
+            "name": "Of Human Bondage",
+            "author": "W Somerset Maugham",
+            "year": "1915",
+            "link": "http://www.theguardian.com/books/2014/jul/21/100-best-novels-of-human-bondage-somerset-maugham-robert-mccrum-philip-carey"
+        }
+    ],
+    "44": [
+        {
+            "name": "The Age of Innocence",
+            "author": "Edith Wharton",
+            "year": "1920",
+            "link": "http://www.theguardian.com/books/2014/jul/28/100-best-novels-age-of-innocence-edith-wharton-robert-mccrum"
+        }
+    ],
+    "45": [
+        {
+            "name": "Ulysses",
+            "author": "James Joyce",
+            "year": "1922",
+            "link": "http://www.theguardian.com/books/2014/aug/04/100-best-novels-ulysses-james-joyce-robert-mccrum"
+        }
+    ],
+    "46": [
+        {
+            "name": "Babbitt",
+            "author": "Sinclair Lewis",
+            "year": "1922",
+            "link": "http://www.theguardian.com/books/2014/aug/11/100-best-novels-babbitt-sinclair-lewis-robert-mccrum"
+        }
+    ],
+    "47": [
+        {
+            "name": "A Passage to India",
+            "author": "EM Forster",
+            "year": "1924",
+            "link": "http://www.theguardian.com/books/2014/aug/18/100-best-novels-a-passage-to-india-em-forster-robert-mccrum"
+        }
+    ],
+    "48": [
+        {
+            "name": "Gentlemen Prefer Blondes",
+            "author": "Anita Loos",
+            "year": "1925",
+            "link": "http://www.theguardian.com/books/2014/aug/25/100-best-novels-gentlemen-prefer-blondes-anita-loos-robert-mccrum"
+        }
+    ],
+    "49": [
+        {
+            "name": "Mrs Dalloway",
+            "author": "Virginia Woolf",
+            "year": "1925",
+            "link": "http://www.theguardian.com/books/2014/sep/01/100-best-novels-mrs-dalloway-virginia-woolf-robert-mccrum"
+        }
+    ],
+    "50": [
+        {
+            "name": "The Great Gatsby",
+            "author": "F Scott Fitzgerald",
+            "year": "1925",
+            "link": "http://www.theguardian.com/books/2014/sep/08/100-best-novels-great-gatsby-scott-fitzgerlad-robert-mccrum"
+        }
+    ],
+    "51": [
+        {
+            "name": "Lolly Willowes",
+            "author": "Sylvia Townsend Warner",
+            "year": "1926",
+            "link": "http://www.theguardian.com/books/2014/sep/15/100-best-novels-lolly-willowes-sylvia-townsend-warner-robert-mccrum"
+        }
+    ],
+    "52": [
+        {
+            "name": "The Sun Also Rises",
+            "author": "Ernest Hemingway",
+            "year": "1926",
+            "link": "http://www.theguardian.com/books/2014/sep/22/100-best-novels-sun-also-rises-ernest-hemingway-robert-mccrum"
+        }
+    ],
+    "53": [
+        {
+            "name": "The Maltese Falcon",
+            "author": "Dashiell Hammett",
+            "year": "1929",
+            "link": "http://www.theguardian.com/books/2014/sep/29/100-best-novels-the-maltese-falcon-dashiell-hammett-sam-spade-raymond-chandler"
+        }
+    ],
+    "54": [
+        {
+            "name": "As I Lay Dying",
+            "author": "William Faulkner",
+            "year": "1930",
+            "link": "http://www.theguardian.com/books/2014/oct/06/100-best-novels-as-i-lay-dying-william-faulkner"
+        }
+    ],
+    "55": [
+        {
+            "name": "Brave New World",
+            "author": "Aldous Huxley",
+            "year": "1932",
+            "link": "http://www.theguardian.com/books/2014/oct/13/100-best-novels-brave-new-world-aldous-huxley"
+        }
+    ],
+    "56": [
+        {
+            "name": "Cold Comfort Farm",
+            "author": "Stella Gibbons",
+            "year": "1932",
+            "link": "http://www.theguardian.com/books/2014/oct/20/100-best-novels-cold-comfort-farm-stella-gibbons"
+        }
+    ],
+    "57": [
+        {
+            "name": "Nineteen Nineteen",
+            "author": "John Dos Passos",
+            "year": "1932",
+            "link": "http://www.theguardian.com/books/2014/oct/27/100-best-novels-john-dos-passos-nineteen-nineteen-1919-usa-trilogy"
+        }
+    ],
+    "58": [
+        {
+            "name": "Tropic of Cancer",
+            "author": "Henry Miller",
+            "year": "1934",
+            "link": "http://www.theguardian.com/books/2014/nov/03/100-best-novels-tropic-of-cancer-henry-miller"
+        }
+    ],
+    "59": [
+        {
+            "name": "Scoop",
+            "author": "Evelyn Waugh",
+            "year": "1938",
+            "link": "http://www.theguardian.com/books/2014/nov/10/100-best-novels-scoop-evelyn-waugh-robert-mccrum"
+        }
+    ],
+    "60": [
+        {
+            "name": "Murphy",
+            "author": "Samuel Beckett",
+            "year": "1938",
+            "link": "http://www.theguardian.com/books/2014/nov/17/100-best-novels-murphy-samuel-beckett-no-61-observer-guardian"
+        }
+    ],
+    "61": [
+        {
+            "name": "The Big Sleep",
+            "author": "Raymond Chandler",
+            "year": "1939",
+            "link": "http://www.theguardian.com/books/2014/nov/24/100-best-novels-the-big-sleep-raymond-chandler"
+        }
+    ],
+    "62": [
+        {
+            "name": "Party Going",
+            "author": "Henry Green",
+            "year": "1939",
+            "link": "http://www.theguardian.com/books/2014/dec/01/100-best-novels-henry-green-party-going"
+        }
+    ],
+    "63": [
+        {
+            "name": "At Swim-Two-Birds",
+            "author": "Flann O\u2019Brien",
+            "year": "1939",
+            "link": "http://www.theguardian.com/books/2014/dec/08/100-best-novels-at-swim-two-birds-flann-o-brien-obrien-dermot-trellis"
+        }
+    ],
+    "64": [
+        {
+            "name": "The Grapes of Wrath",
+            "author": "John Steinbeck",
+            "year": "1939",
+            "link": "http://www.theguardian.com/books/2014/dec/15/robert-mcrum-100-best-novels-observer-steinbeck-grapes-wrath"
+        }
+    ],
+    "65": [
+        {
+            "name": "Joy in the Morning",
+            "author": "PG Wodehouse",
+            "year": "1946",
+            "link": "http://www.theguardian.com/books/2014/dec/22/100-best-novels-joy-in-the-morning-pg-wodehouse-robert-mccrum"
+        }
+    ],
+    "66": [
+        {
+            "name": "All the King\u2019s Men",
+            "author": "Robert Penn Warren",
+            "year": "1946",
+            "link": "http://www.theguardian.com/books/2014/dec/29/100-best-novels-all-the-kings-men-robert-penn-warren"
+        }
+    ],
+    "67": [
+        {
+            "name": "Under the Volcano",
+            "author": "Malcolm Lowry",
+            "year": "1947",
+            "link": "http://www.theguardian.com/books/2015/jan/05/100-best-novels-observer-malcolm-lowry-under-the-volcano"
+        }
+    ],
+    "68": [
+        {
+            "name": "The Heat of the Day",
+            "author": "Elizabeth Bowen",
+            "year": "1948",
+            "link": "http://www.theguardian.com/books/2015/jan/12/100-best-novels-elizabeth-bowen-heat-of-the-day-blitz"
+        }
+    ],
+    "69": [
+        {
+            "name": "Nineteen Eighty-Four",
+            "author": "George Orwell",
+            "year": "1949",
+            "link": "http://www.theguardian.com/books/2015/jan/19/100-best-novels-1984-george-orwell-nineteen-eighty-four-robert-mccrum"
+        }
+    ],
+    "70": [
+        {
+            "name": "The End of the Affair",
+            "author": "Graham Greene",
+            "year": "1951",
+            "link": "http://www.theguardian.com/books/2015/jan/26/100-best-novels-the-end-of-the-affair-graham-greene-observer-robert-mccrum"
+        }
+    ],
+    "71": [
+        {
+            "name": "The Catcher in the Rye",
+            "author": "JD Salinger",
+            "year": "1951",
+            "link": "http://www.theguardian.com/books/2015/feb/02/100-best-novels-catcher-in-the-rye-jd-salinger-holden-caulfield"
+        }
+    ],
+    "72": [
+        {
+            "name": "The Adventures of Augie March",
+            "author": "Saul Bellow",
+            "year": "1953",
+            "link": "http://www.theguardian.com/books/2015/feb/09/saul-bellow-augie-march-100-best-novels-robert-mccrum"
+        }
+    ],
+    "73": [
+        {
+            "name": "Lord of the Flies",
+            "author": "William Golding",
+            "year": "1954",
+            "link": "http://www.theguardian.com/books/2015/feb/16/lord-of-the-flies-100-greatest-novels-william-golding-mccrum"
+        }
+    ],
+    "74": [
+        {
+            "name": "Lolita",
+            "author": "Vladimir Nabokov",
+            "year": "1955",
+            "link": "http://www.theguardian.com/books/2015/feb/23/100-best-novels-lolita-vladimir-nabokov-nymphet"
+        }
+    ],
+    "75": [
+        {
+            "name": "On the Road",
+            "author": "Jack Kerouac",
+            "year": "1957",
+            "link": "http://www.theguardian.com/books/2015/mar/02/100-best-novels-no-76-on-the-road-jack-kerouac"
+        }
+    ],
+    "76": [
+        {
+            "name": "Voss",
+            "author": "Patrick White",
+            "year": "1957",
+            "link": "http://www.theguardian.com/books/2015/mar/09/patrick-white-voss-100-best-novels-robert-mccrum"
+        }
+    ],
+    "77": [
+        {
+            "name": "To Kill a Mockingbird",
+            "author": "Harper Lee",
+            "year": "1960",
+            "link": "http://www.theguardian.com/books/2015/mar/16/robert-mccrum-100-best-novels-harper-lee-to-kill-a-mockingbird"
+        }
+    ],
+    "78": [
+        {
+            "name": "The Prime of Miss Jean Brodie",
+            "author": "Muriel Spark",
+            "year": "1960",
+            "link": "http://www.theguardian.com/books/2015/mar/23/100-best-novels-the-prime-of-miss-jean-brodie-muriel-spark"
+        }
+    ],
+    "79": [
+        {
+            "name": "Catch-22",
+            "author": "Joseph Heller",
+            "year": "1961",
+            "link": "http://www.theguardian.com/books/2015/mar/30/robert-mccrum-100-best-novels-catch-22-joseph-heller"
+        }
+    ],
+    "80": [
+        {
+            "name": "The Golden Notebook",
+            "author": "Doris Lessing",
+            "year": "1962",
+            "link": "http://www.theguardian.com/books/2015/apr/06/100-best-novels-golden-notebook-doris-lessing"
+        }
+    ],
+    "81": [
+        {
+            "name": "A Clockwork Orange",
+            "author": "Anthony Burgess",
+            "year": "1962",
+            "link": "http://www.theguardian.com/books/2015/apr/13/100-best-novels-clockwork-orange-anthony-burgess"
+        }
+    ],
+    "82": [
+        {
+            "name": "A Single Man",
+            "author": "Christopher Isherwood",
+            "year": "1964",
+            "link": "http://www.theguardian.com/books/2015/apr/20/100-best-novels-a-single-man-christopher-isherwood"
+        }
+    ],
+    "83": [
+        {
+            "name": "In Cold Blood",
+            "author": "Truman Capote",
+            "year": "1966",
+            "link": "http://www.theguardian.com/books/2015/apr/27/100-best-novels-84-in-cold-blood-truman-capote-observer-robert-mccrum"
+        }
+    ],
+    "84": [
+        {
+            "name": "The Bell Jar",
+            "author": "Sylvia Plath",
+            "year": "1966",
+            "link": "http://www.theguardian.com/books/2015/may/04/100-best-novels-no-85-the-bell-jar-sylvia-plath"
+        }
+    ],
+    "85": [
+        {
+            "name": "Portnoy\u2019s Complaint",
+            "author": "Philip Roth",
+            "year": "1969",
+            "link": "http://www.theguardian.com/books/2015/may/11/100-best-novels-no-86-portnoys-complaint-philip-roth"
+        }
+    ],
+    "86": [
+        {
+            "name": "Mrs Palfrey at the Claremont",
+            "author": "Elizabeth Taylor",
+            "year": "1971",
+            "link": "http://www.theguardian.com/books/2015/may/11/100-best-novels-no-87-mrs-palfrey-at-the-claremont-elizabeth-taylor"
+        }
+    ],
+    "87": [
+        {
+            "name": "Rabbit Redux",
+            "author": "John Updike",
+            "year": "1971",
+            "link": "http://www.theguardian.com/books/2015/may/25/100-best-novels-rabbit-redux-john-updike-review"
+        }
+    ],
+    "88": [
+        {
+            "name": "Song of Solomon",
+            "author": "Toni Morrison",
+            "year": "1977",
+            "link": "http://www.theguardian.com/books/2015/jun/01/100-best-novels-song-of-solomon-toni-morrison-macon-milkman-dead-african-american-experience"
+        }
+    ],
+    "89": [
+        {
+            "name": "A Bend in the River",
+            "author": "VS Naipaul",
+            "year": "1979",
+            "link": "http://www.theguardian.com/books/2015/jun/08/100-best-novels-bend-in-the-river-vs-naipaul-review"
+        }
+    ],
+    "90": [
+        {
+            "name": "Midnight\u2019s Children",
+            "author": "Salman Rushdie",
+            "year": "1981",
+            "link": "http://www.theguardian.com/books/2015/jun/15/100-best-novels-midnights-children-salman-rushdie-"
+        }
+    ],
+    "91": [
+        {
+            "name": "Housekeeping",
+            "author": "Marilynne Robinson",
+            "year": "1981",
+            "link": "http://www.theguardian.com/books/2015/jun/22/100-best-novels-92-housekeeping-marilynne-robinson"
+        }
+    ],
+    "92": [
+        {
+            "name": "Money: A Suicide Note",
+            "author": "Martin Amis",
+            "year": "1984",
+            "link": "http://www.theguardian.com/books/2015/jun/29/100-best-novels-93-martin-amis-money"
+        }
+    ],
+    "93": [
+        {
+            "name": "An Artist of the Floating World",
+            "author": "Kazuo Ishiguro",
+            "year": "1986",
+            "link": "http://www.theguardian.com/books/2015/jul/06/kazuo-ishiguro-artist-floating-world-retired-artist-japan"
+        }
+    ],
+    "94": [
+        {
+            "name": "The Beginning of Spring",
+            "author": "Penelope Fitzgerald",
+            "year": "1988",
+            "link": "http://www.theguardian.com/books/2015/jul/13/100-best-novels-penelope-fitzgerald-beginning-spring-robert-mccrum"
+        }
+    ],
+    "95": [
+        {
+            "name": "Breathing Lessons",
+            "author": "Anne Tyler",
+            "year": "1988",
+            "link": "http://www.theguardian.com/books/2015/jul/20/100-best-novels-breathing-lessons-by-anne-tyler-maggie-moran-ira"
+        }
+    ],
+    "96": [
+        {
+            "name": "Amongst Women",
+            "author": "John McGahern",
+            "year": "1990",
+            "link": "http://www.theguardian.com/books/2015/jul/27/robert-mccrum-100-greatest-novels-amongst-women-john-mcgahern"
+        }
+    ],
+    "97": [
+        {
+            "name": "Underworld",
+            "author": "Don DeLillo",
+            "year": "1997",
+            "link": "http://www.theguardian.com/books/2015/aug/03/100-best-novels-underworld-don-delillo"
+        }
+    ],
+    "98": [
+        {
+            "name": "Disgrace",
+            "author": "JM Coetzee",
+            "year": "1999",
+            "link": "http://www.theguardian.com/books/2015/aug/10/100-best-novels-disgrace-jm-coetzee-intensely-human"
+        }
+    ],
+    "99": [
+        {
+            "name": "True History of the Kelly Gang",
+            "author": "Peter Carey",
+            "year": "2000",
+            "link": "http://www.theguardian.com/books/2015/aug/16/100-best-novels-true-history-kelly-gang-peter-carey"
+        }
+    ]
+}
