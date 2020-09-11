@@ -1,8 +1,8 @@
 from collections import defaultdict
 from json import dump
 
-READ_LIST = 'times-100.txt'
-WRITE_LIST = 'times-100.json'
+READ_LIST = 'lists/gurdian-100.txt'
+WRITE_LIST = 'lists/gurdian-100.json'
 DATA = defaultdict(list)
 
 with open(READ_LIST, 'r') as read_list:
@@ -18,8 +18,5 @@ for i in range(len(books)):
 	}
 	DATA[i].append(new_book)
 
-print(DATA)
-
 with open(WRITE_LIST, 'w') as write_list:
 	dump(DATA, write_list, indent=4)
-
