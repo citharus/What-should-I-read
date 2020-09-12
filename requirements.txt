@@ -1,3 +1,5 @@
 discord.py
+discord~=1.0.1
 dnspython
 PyNaCl
+pypresence~=4.0.0
