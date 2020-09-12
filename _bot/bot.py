@@ -1,8 +1,9 @@
-from discord.ext import commands
-from discord import Embed, Colour
+from discord.ext import commands, tasks
+from discord import Embed, Colour, Game
 from _bot.book import RandomBook
 from pathlib import Path
-import _bot.presence
+from random import choice
+from time import sleep
 
 
 def read_token():
@@ -13,7 +14,25 @@ def read_token():
 TOKEN: str = read_token()
 CLIENT = commands.Bot(command_prefix='&')
 CLIENT.remove_command('help')
-CLIENT.add_cog(_bot.presence.RichPresence(CLIENT))
+
+ACTIVITY_TEXT: list = [
+	'Made by me.',
+	'Made by citharus c:',
+	'I like your taste. uwu',
+	'Running low on books...',
+	'Made by citharus#6618',
+	'Gotta keep you reading.',
+	'&help for help ;)',
+	'Help: &help',
+	'Can\'t find a book? &help!'
+]
+
+
+@CLIENT.event
+async def on_ready():
+	while True:
+		await CLIENT.change_presence(activity=Game(name=f'{choice(ACTIVITY_TEXT)}'))
+		sleep(16)
 
 
 @CLIENT.command(name='help')
