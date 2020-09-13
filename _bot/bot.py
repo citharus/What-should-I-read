@@ -3,7 +3,6 @@ from discord import Embed, Colour, Game
 from _bot.book import RandomBook
 from pathlib import Path
 from random import choice
-from time import sleep
 
 
 def read_token():
@@ -15,7 +14,7 @@ TOKEN: str = read_token()
 CLIENT = commands.Bot(command_prefix='&')
 CLIENT.remove_command('help')
 
-ACTIVITY_TEXT: list = [
+STATUS: list = [
 	'Made by me.',
 	'Made by citharus c:',
 	'I like your taste. uwu',
@@ -30,9 +29,12 @@ ACTIVITY_TEXT: list = [
 
 @CLIENT.event
 async def on_ready():
-	while True:
-		await CLIENT.change_presence(activity=Game(name=f'{choice(ACTIVITY_TEXT)}'))
-		sleep(16)
+	change_status.start()
+
+
+@tasks.loop(minutes=1)
+async def change_status():
+	await CLIENT.change_presence(activity=Game(name=choice(STATUS)))
 
 
 @CLIENT.command(name='help')
