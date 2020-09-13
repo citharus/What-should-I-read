@@ -1,12 +1,12 @@
 from discord.ext import commands, tasks
 from discord import Embed, Colour, Game
-from _bot.book import RandomBook
+from book import RandomBook
 from pathlib import Path
 from random import choice
 
 
 def read_token():
-	with open('../TOKEN.txt', 'r') as token:
+	with open('TOKEN.txt', 'r') as token:
 		return token.readlines()[0].strip()
 
 
@@ -53,10 +53,10 @@ async def _help(ctx):
 async def _book(ctx, book_list: str):
 	if not book_list:
 		raise commands.errors.MissingRequiredArgument('Missing book list argument.')
-	if not Path(f'../list/{book_list}.json').exists():
+	if not Path(f'list/{book_list}.json').exists():
 		raise commands.errors.ArgumentParsingError('Missing book list location.')
 
-	random_book = RandomBook(f'../list/{book_list}.json').random()
+	random_book = RandomBook(f'list/{book_list}.json').random()
 	book_name = random_book[0]['name']
 	book_author = random_book[0]['author']
 	book_year = random_book[0]['year']
