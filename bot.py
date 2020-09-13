@@ -28,7 +28,10 @@ STATUS: list = [
 
 
 @CLIENT.event
-async def on_ready():
+async def on_ready(ctx):
+	embed = Embed(title='Thanks for adding me to your server. UWU', colour=Colour(0xf3b816), description='To get \
+					*your* random Book type: `&help`.')
+	await ctx.send(embed)
 	change_status.start()
 
 
