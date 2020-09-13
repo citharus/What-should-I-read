@@ -7,7 +7,7 @@ class RandomBook:
 		self.book_list: str = book_list
 
 	def random(self):
-		number = randint(0, 100)
+		number = randint(0, len(self.book_list))
 
 		with open(self.book_list) as bl:
 			book_list: dict = load(bl)
