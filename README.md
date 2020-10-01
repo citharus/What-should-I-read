@@ -1,6 +1,6 @@
 # What-should-I-read
 A Discord-Bot that gives you a random book from Top-100-Lists
-![example_image](https://raw.githubusercontent.com/citharus/What-should-I-read/master/example.png)
+![example_image](https://github.com/citharus/What-should-I-read/blob/master/example.png)
 
 ## Usage
 ### Import
