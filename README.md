@@ -11,7 +11,7 @@ A Discord-Bot that gives you a random book from Top-100-Lists
 * Help:
   <code>&help</code>
 * Book:
-  <code>&book [book_list](https://github.com/citharus/What-should-I-read/#book_list)</code>
+  <code>&book [book_list](https://github.com/citharus/What-should-I-read/#book-list)</code>
 
 #### Book lists
 * <code>times</code>
