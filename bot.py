@@ -10,7 +10,6 @@ def read_token():
 		return token.readlines()[0].strip()
 
 
-TOKEN: str = read_token()
 CLIENT = commands.Bot(command_prefix='&')
 CLIENT.remove_command('help')
 
@@ -25,6 +24,11 @@ STATUS: list = [
 	'Help: &help',
 	'Can\'t find a book? &help!'
 ]
+
+	
+def start():
+	TOKEN: str = read_token()
+	CLIENT.run(TOKEN)
 
 
 @CLIENT.event
@@ -82,6 +86,3 @@ async def missing_argument_error(ctx, error):
 						Try `&help` for more info.')
 		await ctx.send(content='I didn\'t find the book list. Please retry.', embed=embed)
 
-
-if __name__ == '__main__':
-	CLIENT.run(TOKEN)
