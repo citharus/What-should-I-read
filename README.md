@@ -33,7 +33,7 @@ and for **Linux**
 pip install -r requirements.txt
 python main.py
 ```
-<br/><br/>
+<br/>
 
 ## Commands
 * `&help` Shows the command overview.  
