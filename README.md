@@ -1,4 +1,4 @@
-<p align="center"><img align="center" src="https://github.com/citharus/What-should-I-read/blob/master/logo.png"/></p>
+<p align="center"><img align="center" src="https://github.com/citharus/What-should-I-read/blob/master/assets/logo.png"/></p>
 <h1 align="center">What should I read?</h1>
 
 <p align="center"><b>What should I read?</b> is a Discord Bot which randomly gives a book from a predefined list.</p>
